@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm [Zhanghan Wang!](https://rabbitwhite1.github.io/) 👋
+### Hi there, I'm **Zhanghan Wang** 👋
 
 [![Hank's github stats](https://github-readme-stats.vercel.app/api?username=RabbitWhite1&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitWhite1&hide=css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitWhite1&hide=css,html&layout=compact)
